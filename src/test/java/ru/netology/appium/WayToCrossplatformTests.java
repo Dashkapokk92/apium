@@ -10,6 +10,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class WayToCrossplatformTests {
+    //hfudyf
 
     private AppiumDriver driver;
 
